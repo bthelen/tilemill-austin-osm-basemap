@@ -41,7 +41,7 @@
     },
     {
       "Datasource": {
-        "file": "./layers/processed_p/coastline-good.zip"
+        "file": "./layers/processed_p/coastline-good-clipped.zip"
       },
       "class": "shp",
       "geometry": "polygon",
