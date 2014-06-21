@@ -29,7 +29,7 @@ Map { font-directory: url(./fonts); }
 @sans_bold_italic:  "Open Sans Bold Italic","DejaVu Sans Bold Italic","unifont Medium";
 
 /* Some fonts are larger or smaller than others. Use this variable to
-   globally increase or decrease the font sizes. */
+   globally increase or decrease the font s izes. */
 /* Note this is only implemented for certain things so far */
 @text_adjust: 0;
 
@@ -131,8 +131,8 @@ Map { font-directory: url(./fonts); }
 
 @poi_text:          #888;
 
-@road_text:         #777;
-@road_halo:         #fff;
+@road_text:         #666;
+@road_halo:         @place_halo;
 
 @other_text:        #888;
 @other_halo:        @place_halo;

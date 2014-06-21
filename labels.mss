@@ -384,7 +384,7 @@
   shield-name: "[ref]";
   shield-size: 9;
   shield-face-name: @sans_bold;
-  shield-fill: #fff;
+  shield-fill: #666;
   shield-file: url(img/shield-motorway-1-light.png);
   [type='motorway'] {
     [reflen=1] { shield-file: url(img/shield-motorway-1-light.png); }
