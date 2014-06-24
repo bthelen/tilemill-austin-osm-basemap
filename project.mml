@@ -52,7 +52,7 @@
     },
     {
       "Datasource": {
-        "file": "./layers/shoreline_300/shoreline_300.zip"
+        "file": "./layers/shoreline_300/shoreline_300_clipped.zip"
       },
       "class": "shp",
       "geometry": "polygon",
